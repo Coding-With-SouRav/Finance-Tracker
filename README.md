@@ -89,5 +89,3 @@ This application provides a comprehensive solution for personal finance tracking
 ![Screenshot 2025-06-18 101523](https://github.com/user-attachments/assets/f21f6413-765a-4fa4-898b-e356f356d9db)
 
 
-<!-- AUTO UPDATE -->
-Last maintenance: 2026-08-07 07:51 UTC
